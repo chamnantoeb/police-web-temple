@@ -1,0 +1,61 @@
+@media (max-width: 768px) {
+  .mobile{
+    display: block;
+  }
+  .mm{
+    font-size: 20px;
+  }
+  .desktop, .our-donor{
+    display: none;
+  }
+  .ml-auto, .mx-auto {
+    padding: 4px 1px;
+  }
+  .text-subscribe {
+    font-size: 27px;
+  }
+  .search-box {
+    width: 87%;
+    margin-right: 2px;
+  }
+  .d-image {
+    padding-bottom: 100px;
+  }
+  .d-image {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-size: 100% 500px;
+  }
+  .txt
+  {
+    font-size: 12px;
+  }
+  .txt-small{
+    font-size: 11px;
+  }
+  .footer-title
+  {
+    text-align: center;
+    font-size: 14px;
+    padding-top: 8px;
+    font-weight: bold;
+  }
+  .foot
+  {
+    font-size: 12px;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 0;
+  }
+  .c-lang{
+    float: left!important;
+    width: 100%!important;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 6px;
+  }
+  .c-lang img
+  {
+    width: 32px;
+  }
+ }
